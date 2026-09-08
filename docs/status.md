@@ -14,4 +14,4 @@
 
 团队同步、共享知识库、多级审批、客户门户、权威法规/案例库接入和支付尚未完成。法律实质质量、真实卷宗适用性和节省工时仍需律师试点评估。
 
-发行记录以本仓库 [Releases](https://github.com/CBx-2023/Melatonin-Releases/releases) 为准。目前没有已发布安装包。
+发行记录以本仓库 [Releases](https://github.com/CBx-2023/Melatonin-Releases/releases) 为准。已提供 v0.1.0-beta.34 的 macOS Apple Silicon 测试预发行包（ad-hoc 签名，未公证），其他平台尚未发行。

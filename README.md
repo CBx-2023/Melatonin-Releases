@@ -13,7 +13,13 @@
 
 ## 下载安装
 
-目前尚未在本仓库发布安装包。后续版本会在 Releases 中提供相应平台的安装文件、校验值和版本说明；请以该版本实际附件为准，不要下载 “Source code” 作为安装包。
+当前测试预发行版：[v0.1.0-beta.34](https://github.com/CBx-2023/Melatonin-Releases/releases/tag/v0.1.0-beta.34)，支持 **macOS Apple Silicon**。
+
+- [下载 DMG](https://github.com/CBx-2023/Melatonin-Releases/releases/download/v0.1.0-beta.34/melatonin-0.1.0-beta.34-arm64.dmg)
+- [下载 ZIP](https://github.com/CBx-2023/Melatonin-Releases/releases/download/v0.1.0-beta.34/melatonin-0.1.0-beta.34-arm64.zip)
+- [SHA-256 校验值](https://github.com/CBx-2023/Melatonin-Releases/releases/download/v0.1.0-beta.34/SHA256SUMS.txt)
+
+**本版为 ad-hoc 签名、未 Apple 公证的测试包。** macOS 可能阻止首次启动，请先阅读 Release 中的签名说明。本次没有 Windows/Intel Mac/Linux 安装附件。不要下载 “Source code” 作为安装包。
 
 macOS、Windows 和 Linux 的功能验证状态分别记录在[平台状态](docs/status.md)。本仓库不提供源码构建步骤，也不承诺尚未发行版本的签名或兼容性。
 
