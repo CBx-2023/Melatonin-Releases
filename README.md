@@ -13,20 +13,20 @@
 
 ## 下载安装
 
-当前测试预发行版：[v0.1.0-beta.34](https://github.com/CBx-2023/Melatonin-Releases/releases/tag/v0.1.0-beta.34)，支持 **macOS Apple Silicon**。
+当前测试预发行版：[v0.1.0-beta.35](https://github.com/CBx-2023/Melatonin-Releases/releases/tag/v0.1.0-beta.35)，支持 **macOS Apple Silicon**。
 
-- [下载 DMG](https://github.com/CBx-2023/Melatonin-Releases/releases/download/v0.1.0-beta.34/melatonin-0.1.0-beta.34-arm64.dmg)
-- [下载 ZIP](https://github.com/CBx-2023/Melatonin-Releases/releases/download/v0.1.0-beta.34/melatonin-0.1.0-beta.34-arm64.zip)
-- [SHA-256 校验值](https://github.com/CBx-2023/Melatonin-Releases/releases/download/v0.1.0-beta.34/SHA256SUMS.txt)
+- [下载 DMG](https://github.com/CBx-2023/Melatonin-Releases/releases/download/v0.1.0-beta.35/melatonin-0.1.0-beta.35-arm64.dmg)
+- [下载 ZIP](https://github.com/CBx-2023/Melatonin-Releases/releases/download/v0.1.0-beta.35/melatonin-0.1.0-beta.35-arm64.zip)
+- [SHA-256 校验值](https://github.com/CBx-2023/Melatonin-Releases/releases/download/v0.1.0-beta.35/SHA256SUMS.txt)
 
-**本版为 ad-hoc 签名、未 Apple 公证的测试包。** macOS 可能阻止首次启动，请先阅读 Release 中的签名说明。发布时模型接口检查返回 502，模型任务可能暂时不可用，详见 Release 已知问题。本次没有 Windows/Intel Mac/Linux 安装附件。不要下载 “Source code” 作为安装包。
+**本版为 ad-hoc 签名、未 Apple 公证的测试包。** macOS 可能阻止首次启动，请先阅读 Release 中的签名说明。模型请求使用管理员配置的服务；额度与使用记录可在用户中心查看。本次没有 Windows/Intel Mac/Linux 安装附件。不要下载 “Source code” 作为安装包。
 
 macOS、Windows 和 Linux 的功能验证状态分别记录在[平台状态](docs/status.md)。本仓库不提供源码构建步骤，也不承诺尚未发行版本的签名或兼容性。
 
 ## 开始办案
 
 1. 从发行版本下载适用的桌面软件。
-2. 获取律所管理员提供的账号或邀请码，在「设置 → 通用 → 律所账号」登录或激活。
+2. 在网站完成管理员的邮件邀请激活，再到「设置 → 通用 → 律所账号」选择「通过浏览器登录」并确认授权。
 3. 添加项目文件夹，作为案件目录；项目下创建对话。
 4. 打开顶栏「案件材料与成果」，填写案件信息、导入材料，并在对话中安排分析或起草。
 5. 点击引用核对原文，修正事实、复核文书，按需导出 DOCX/PDF。
