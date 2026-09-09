@@ -13,13 +13,16 @@
 
 ## 下载安装
 
-当前测试预发行版：[v0.1.0-beta.35](https://github.com/CBx-2023/Melatonin-Releases/releases/tag/v0.1.0-beta.35)，支持 **macOS Apple Silicon**。
+当前测试预发行版：[v0.1.0-beta.35](https://github.com/CBx-2023/Melatonin-Releases/releases/tag/v0.1.0-beta.35)，提供 **macOS Apple Silicon** 测试包与 **Windows x64** 未签名试点包。
 
-- [下载 DMG](https://github.com/CBx-2023/Melatonin-Releases/releases/download/v0.1.0-beta.35/melatonin-0.1.0-beta.35-arm64.dmg)
-- [下载 ZIP](https://github.com/CBx-2023/Melatonin-Releases/releases/download/v0.1.0-beta.35/melatonin-0.1.0-beta.35-arm64.zip)
-- [SHA-256 校验值](https://github.com/CBx-2023/Melatonin-Releases/releases/download/v0.1.0-beta.35/SHA256SUMS.txt)
+- [macOS DMG](https://github.com/CBx-2023/Melatonin-Releases/releases/download/v0.1.0-beta.35/melatonin-0.1.0-beta.35-arm64.dmg)
+- [macOS ZIP](https://github.com/CBx-2023/Melatonin-Releases/releases/download/v0.1.0-beta.35/melatonin-0.1.0-beta.35-arm64.zip)
+- [macOS SHA-256 校验值](https://github.com/CBx-2023/Melatonin-Releases/releases/download/v0.1.0-beta.35/SHA256SUMS.txt)
+- [Windows 安装程序（NSIS）](https://github.com/CBx-2023/Melatonin-Releases/releases/download/v0.1.0-beta.35/melatonin-0.1.0-beta.35-x64-setup.exe)
+- [Windows 便携版](https://github.com/CBx-2023/Melatonin-Releases/releases/download/v0.1.0-beta.35/melatonin-0.1.0-beta.35-x64-portable.exe)
+- [Windows SHA-256 校验值](https://github.com/CBx-2023/Melatonin-Releases/releases/download/v0.1.0-beta.35/SHA256SUMS-Windows.txt)
 
-**本版为 ad-hoc 签名、未 Apple 公证的测试包。** macOS 可能阻止首次启动，请先阅读 Release 中的签名说明。模型请求使用管理员配置的服务；额度与使用记录可在用户中心查看。本次没有 Windows/Intel Mac/Linux 安装附件。不要下载 “Source code” 作为安装包。
+**macOS 包为 ad-hoc 签名，未完成 Apple 公证；Windows 包未签名，仅供试点。** 安装前请核对对应平台的 SHA-256 校验文件，并阅读 Release 中的签名与系统安全提示说明。Windows 已通过真实 Windows runner 上的源应用授权/案件测试及打包应用 OAuth 测试；用户机器安装与 Word/WPS 兼容性仍需试点验收。模型请求使用管理员配置的服务，额度与使用记录可在用户中心查看。本次没有 Intel Mac/Linux 安装附件。不要下载 “Source code” 作为安装包。
 
 macOS、Windows 和 Linux 的功能验证状态分别记录在[平台状态](docs/status.md)。本仓库不提供源码构建步骤，也不承诺尚未发行版本的签名或兼容性。
 

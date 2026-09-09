@@ -1,5 +1,11 @@
 # 使用指南
 
+## Windows 下载安装
+
+v0.1.0-beta.35 提供 Windows x64 [安装程序（NSIS）](https://github.com/CBx-2023/Melatonin-Releases/releases/download/v0.1.0-beta.35/melatonin-0.1.0-beta.35-x64-setup.exe)和[便携版](https://github.com/CBx-2023/Melatonin-Releases/releases/download/v0.1.0-beta.35/melatonin-0.1.0-beta.35-x64-portable.exe)，对应校验值为 [SHA256SUMS-Windows.txt](https://github.com/CBx-2023/Melatonin-Releases/releases/download/v0.1.0-beta.35/SHA256SUMS-Windows.txt)。Windows 包未签名，属于试点分发；请核对下载来源、校验值与系统提示后使用。
+
+真实 Windows runner 已通过浏览器授权、账号切换与案件数据恢复，以及打包应用的 OAuth 流程。这不等于用户机器安装或 Word/WPS 排版兼容性已验收。
+
 ## 账号与连接
 
 官网：https://melatonin.claimclaw.org/
